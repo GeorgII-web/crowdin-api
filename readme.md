@@ -6,7 +6,7 @@ Inspired by https://github.com/akeneo/php-crowdin-api
 
 ## Installation
 
-`composer require elkuku/crowdin-api`
+`composer require georgii-web/crowdin-api`
 
 ## Usage
 
