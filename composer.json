@@ -1,5 +1,5 @@
 {
-  "name": "elkuku/crowdin-api",
+  "name": "georgii-web/crowdin-api",
   "description": "A crowdin API implementation in PHP",
   "type": "library",
   "license": "WTFPL",
